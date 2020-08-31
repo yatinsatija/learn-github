@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>
+  <!--title>
     
       Hello World &middot; GitHub Guides
     
@@ -30,7 +30,7 @@
       ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
     })();
-  </script>
+  </script-->
 
 </head>
 <body>
@@ -279,9 +279,9 @@
 
 <hr />
 
-<blockquote>
+<!--blockquote>
   <p><strong>Tip</strong>: Check out our other <a href="http://guides.github.com">Guides</a>, <a href="http://youtube.com/githubguides">YouTube Channel</a> and <a href="https://services.github.com/on-demand/">On-Demand Training</a> for more on how to get started with GitHub.</p>
-</blockquote>
+</blockquote-->
 
 
       <p class="last-updated">Last updated July 24, 2020</p>
