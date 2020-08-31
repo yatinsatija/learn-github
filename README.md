@@ -37,14 +37,14 @@
 
   <header>
     <div class="wrap">
-      <ul class="links">
+      <!--ul class="links">
         <li><a href="https://www.youtube.com/githubguides">Video Guides</a></li>
         <li><a href="https://help.github.com">GitHub Help</a></li>
         <li class="nav-github"><a href="https://github.com">GitHub.com</a></li>
         <li class="nav-rss"><a href="/feed/index.xml"><span class="octicon octicon-rss"></span></a></li>
-      </ul>
+      </ul-->
 
-      <a href ="/"><img src="/images/logo@2x.png" width="136" height="25" alt ="GitHub Guides logo"/></a>
+      <!--a href ="/"><img src="/images/logo@2x.png" width="136" height="25" alt ="GitHub Guides logo"/></a-->
     </div>
   </header>
 
