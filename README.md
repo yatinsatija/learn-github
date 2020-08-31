@@ -6,8 +6,8 @@
     
       Hello World &middot; GitHub Guides
     
-  </title>
-  <link rel="icon" type="image/x-icon" href="/favicon.ico">
+  </title-->
+  <!--link rel="icon" type="image/x-icon" href="/favicon.ico">
 
   <meta name="viewport" content="width=device-width,initial-scale=1">
 
@@ -36,7 +36,7 @@
 <body>
 
   <header>
-    <div class="wrap">
+    <!--div class="wrap">
       <ul class="links">
         <li><a href="https://www.youtube.com/githubguides">Video Guides</a></li>
         <li><a href="https://help.github.com">GitHub Help</a></li>
