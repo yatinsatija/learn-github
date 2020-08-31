@@ -36,7 +36,7 @@
 <body>
 
   <header>
-    <!--div class="wrap">
+    <div class="wrap">
       <ul class="links">
         <li><a href="https://www.youtube.com/githubguides">Video Guides</a></li>
         <li><a href="https://help.github.com">GitHub Help</a></li>
